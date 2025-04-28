@@ -8,7 +8,7 @@ It performs the basic operations like addition, subtraction, multiplication and 
  Choose the operator('+','-','*','/')
  See the result!
 
- ##Techonologies
+ ##Technologies
   Java
 
   ---
